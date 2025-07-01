@@ -1,3 +1,5 @@
 # Hellow world!
 
-I study in N
+I study in Netology
+
+01.07.25
